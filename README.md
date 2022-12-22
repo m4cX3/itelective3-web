@@ -16,7 +16,7 @@
 > <p align="justify"> This project is primarily used for nursing students and nursing personnel to practice and to survey monitoring critical details like calculating ECG, respiration, blood pressure and body temperature. It will record and log each detail according to the names of the patient, and will update the record in real-time. Once recorded, all of the details will be stored onto the database and can be printed out through a table, and ready to be received by the patient. </p>
 
 ## Frameworks
-> <p align="justify"> The project is created using these frameworks: </p>
+> <p align="justify"> The project will be created using these frameworks: </p>
 
 * [Laravel](https://laravel.com/) <img src="https://user-images.githubusercontent.com/103469969/209066598-90d55001-2dbe-4bc4-b2f9-43426696399f.png"
 style="width: 20px; height: 20px">
