@@ -3,16 +3,17 @@
 
 <p align="center"> Made for the Ateneo de Davao School of Nursing (ADDU-SON) </p>
 
+## Table of Contents
+* [Project Description](#project-description)
+* [Purpose and Details](#purpose-and-details)
+* [Frameworks](#frameworks)
+* [Sub-systems](#sub-systems)
+
 ## Project Description
 <p align="justify"> A patient monitoring system is an evaluative monitoring system used to monitor physiological signals. It calculates ECG, respiration, blood pressure and body temperature, among other things. </p>
 
-## Table of Contents
-* [Frameworks](#frameworks)
-* [Purpose and Details](#purpose-and-details)
-* [Sub-systems](#sub-systems)
+## Purpose and Details
 
 ## Frameworks
-
-## Purpose and Details
 
 ## Sub-systems
