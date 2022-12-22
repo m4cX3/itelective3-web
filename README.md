@@ -7,12 +7,12 @@
 <p align="justify"> A patient monitoring system is an evaluative monitoring system used to monitor physiological signals. It calculates ECG, respiration, blood pressure and body temperature, among other things. </p>
 
 ## Table of Contents
-* Frameworks
-* Purpose and Details
-* Possible Sub-systems
+* [Frameworks](#frameworks)
+* [Purpose and Details](#purpose-and-details)
+* [Sub-systems](#sub-systems)
 
 ## Frameworks
 
 ## Purpose and Details
 
-## Possible Sub-systems
+## Sub-systems
