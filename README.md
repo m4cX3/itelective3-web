@@ -39,7 +39,10 @@ style="width: 20px; height: 20px"> <img src="https://user-images.githubuserconte
 
 * **User access portal**
  
-  * <p align="justify"> This is used to collect data and to store in the database.
-  * <p align="justify"> 
-*
- *
+  * <p align="justify"> This is used to collect data and to store in the database. </p>
+  * <p align="justify"> As the program collects health data, it will be sent to either a local data collection devices, or   a remote cloud, ready to be compiled into useful information. </p>
+
+* **Software**
+  
+  * <p align="justify"> Both the device and the portal will be utilized through software. </p>
+  * <p align="justify"> It is extremely important as the software translates the information from its hardware so it can be     understood and used by medical professionals. </p>
