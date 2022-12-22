@@ -10,14 +10,14 @@
 * [Sub-systems](#sub-systems)
 
 ## Project Description
-<p align="justify"> A patient monitoring system is an evaluative monitoring system used to monitor physiological signals. It calculates ECG, respiration, blood pressure and body temperature, among other things. </p>
+> <p align="justify"> A patient monitoring system is an evaluative monitoring system used to monitor physiological signals. It calculates ECG, respiration, blood pressure and body temperature, among other things. </p>
 
 ## Purpose and Details
 
 ## Frameworks
-<p align="justify"> The project is created using these frameworks: </p>
+> <p align="justify"> The project is created using these frameworks: </p>
 * Laravel
-<br> * Breeze-Vue </br>
+* Breeze-Vue
 * MySQL
 
 ## Sub-systems
