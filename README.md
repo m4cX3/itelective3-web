@@ -4,10 +4,10 @@
 <p align="center"> Made for the Ateneo de Davao School of Nursing (ADDU-SON) </p>
 
 ## Table of Contents
-* [Project Description](#project-description)
-* [Purpose and Details](#purpose-and-details)
-* [Frameworks](#frameworks)
-* [Sub-systems](#sub-systems)
+1. [Project Description](#project-description)
+2. [Purpose and Details](#purpose-and-details)
+3. [Frameworks](#frameworks)
+4. [Sub-systems](#sub-systems)
 
 ## Project Description
 > <p align="justify"> A patient monitoring system is an evaluative monitoring system used to monitor physiological signals. It calculates ECG, respiration, blood pressure and body temperature, among other things. </p>
@@ -16,7 +16,7 @@
 
 ## Frameworks
 > <p align="justify"> The project is created using these frameworks: </p>
-* Laravel
+* [Laravel](https://laravel.com/)
 * Breeze-Vue
 * MySQL
 
