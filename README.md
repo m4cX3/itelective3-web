@@ -24,10 +24,22 @@ style="width: 20px; height: 20px">
  
 * [Breeze-Vue](http://breeze.github.io/doc-main/) <img src="https://user-images.githubusercontent.com/103469969/209067448-7e679621-a4d1-4ec7-b70f-b75625f8f62c.png"
 style="width: 20px; height: 20px"> <img src="https://user-images.githubusercontent.com/103469969/209067451-dce617b6-14fe-4210-9837-885a1dbed693.png" style="width: 20px; height: 20px">
-  * <p align="justify"> **Breeze** and **Vue** are JavaScripts libraries that help you manage data in rich client applications, and a progressive framework that build user interfaces respectively. </p>
+  * <p align="justify"> **Breeze** and **Vue** are JavaScripts libraries that help you manage data in rich client     applications, and a progressive framework that build user interfaces respectively. </p>
 
 * [MySQL](https://www.mysql.com/) <img src="https://user-images.githubusercontent.com/103469969/209067913-15a142ec-a1fd-4409-83da-ee0505656b23.png" style="width: 20px; height: 20px;">
   * <p align="justify"> **MySQL** is a realtional database management system (RDBMS) developed by Oracle that is based on structured query language (SQL). </p>
 
 
 ## Sub-systems
+> <p align="justify"> For the project to function normally, it requires these three general components:
+* **Patient monitoring device** 
+  
+  * <p align="justify"> This is the part of the device that comes incontact with or is inserted into the patient. </p>
+  * <p align="justify"> Usually includes a sensor that digitizes the information and a processing device that collects the     data and prepares it for analysis. </p>
+
+* **User access portal**
+ 
+  * <p align="justify"> This is used to collect data and to store in the database.
+  * <p align="justify"> 
+*
+ *
