@@ -16,7 +16,8 @@
 > <p align="justify"> It's purpose is to blah blah blah i'm so bored.
 ## Frameworks
 > <p align="justify"> The project is created using these frameworks: </p>
-* [Laravel](https://laravel.com/)
+* [Laravel](https://laravel.com/) <img src="https://user-images.githubusercontent.com/103469969/209066598-90d55001-2dbe-4bc4-b2f9-43426696399f.png"
+style="width: 50px; height: 50px">
   * Lorem ipsum
 * [Breeze-Vue](http://breeze.github.io/doc-main/)
   * Lorem ipsum 
