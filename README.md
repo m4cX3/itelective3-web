@@ -15,5 +15,9 @@
 ## Purpose and Details
 
 ## Frameworks
+<p align="justify"> The project is created using these frameworks: </p>
+* Laravel
+<br> * Breeze-Vue </br>
+* MySQL
 
 ## Sub-systems
