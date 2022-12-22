@@ -19,7 +19,8 @@
 * [Laravel](https://laravel.com/) <img src="https://user-images.githubusercontent.com/103469969/209066598-90d55001-2dbe-4bc4-b2f9-43426696399f.png"
 style="width: 20px; height: 20px">
   * Lorem ipsum
-* [Breeze-Vue](http://breeze.github.io/doc-main/)
+* [Breeze-Vue](http://breeze.github.io/doc-main/) <img src="https://user-images.githubusercontent.com/103469969/209067448-7e679621-a4d1-4ec7-b70f-b75625f8f62c.png"
+style="width: 20px; height: 20px"> <img src="https://user-images.githubusercontent.com/103469969/209067451-dce617b6-14fe-4210-9837-885a1dbed693.png" style="width: 20px; height: 20px">
   * Lorem ipsum 
 * [MySQL](https://www.mysql.com/)
   * Lorem ipsum
