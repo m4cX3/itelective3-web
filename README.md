@@ -10,10 +10,10 @@
 4. [Sub-systems](#sub-systems)
 
 ## Project Description
-> <p align="justify"> A patient monitoring system is a set of systems and/or processes that enable medical professionals to monitor a patient's health. These systems are mostly used for remote patient monitoring and are also referred to as remote physiologic monitoring. </p>
+<p align="justify"> A patient monitoring system is a set of systems and/or processes that enable medical professionals to monitor a patient's health. These systems are mostly used for remote patient monitoring and are also referred to as remote physiologic monitoring. </p>
 
 ## Purpose and Details
-> <p align="justify"> This project is primarily used for nursing students and nursing personnel to practice and to survey monitoring critical details like calculating ECG, respiration, blood pressure and body temperature. It will record and log each detail according to the names of the patient, and will update the record in real-time. Once recorded, all of the details will be stored onto the database and can be printed out through a table, and ready to be received by the patient. </p>
+<p align="justify"> This project is primarily used for nursing students and nursing personnel to practice and to survey monitoring critical details like calculating ECG, respiration, blood pressure and body temperature. It will record and log each detail according to the names of the patient, and will update the record in real-time. Once recorded, all of the details will be stored onto the database and can be printed out through a table, and ready to be received by the patient. </p>
 
 ## Frameworks
 > <p align="justify"> The project will be created using these frameworks: </p>
