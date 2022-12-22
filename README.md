@@ -17,7 +17,7 @@
 ## Frameworks
 > <p align="justify"> The project is created using these frameworks: </p>
 * [Laravel](https://laravel.com/)
-* Breeze-Vue
-* MySQL
+* [Breeze-Vue](http://breeze.github.io/doc-main/)
+* [MySQL](https://www.mysql.com/)
 
 ## Sub-systems
