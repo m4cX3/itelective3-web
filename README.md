@@ -26,6 +26,6 @@ style="width: 20px; height: 20px"> <img src="https://user-images.githubuserconte
   * **Breeze** and **Vue** are JavaScripts libraries that help you manage data in rich client applications, and a progressive framework that build user interfaces respectively. 
 
 * [MySQL](https://www.mysql.com/) <img src="https://user-images.githubusercontent.com/103469969/209067913-15a142ec-a1fd-4409-83da-ee0505656b23.png" style="width: 20px; height: 20px;">
-  * **MySQL** is a realtional database management system (RDBMS) developed by Oracle that is based on structured query language (SQL)
+  * **MySQL** is a realtional database management system (RDBMS) developed by Oracle that is based on structured query language (SQL).
 
 ## Sub-systems
