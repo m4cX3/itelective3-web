@@ -13,14 +13,14 @@
 > <p align="justify"> A patient monitoring system is an evaluative monitoring system used to monitor physiological signals. It calculates ECG, respiration, blood pressure and body temperature, among other things. </p>
 
 ## Purpose and Details
-
+> <p align="justify"> It's purpose is to blah blah blah i'm so bored.
 ## Frameworks
 > <p align="justify"> The project is created using these frameworks: </p>
 * [Laravel](https://laravel.com/)
-  * Lorem ipsum   
+  * Lorem ipsum
 * [Breeze-Vue](http://breeze.github.io/doc-main/)
   * Lorem ipsum 
 * [MySQL](https://www.mysql.com/)
-  * Lorem ipsum  
+  * Lorem ipsum
 
 ## Sub-systems
