@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Activity #3</title>
+</head>
+
+<!-----------------BACKGROUND--------------------------------------------------------------------------->
+
+<body class="bg-cover w-1920 h-1080"
+    style="background-image: url('https://user-images.githubusercontent.com/103469969/211142106-eb08097f-d190-4cf5-b426-5272456a6264.jpg')">
+
+    <!-------------------------CARD--------------------------------------------------------------------->
+    <div class="grid place-items-center h-screen">
+
+        <!---------------------------CARD BACKGROUND---------------------------------------------------->
+        <div class="h-[600px] w-[500px] bg-cover bg-center rounded-2xl"
+            style="background-image:url('https://user-images.githubusercontent.com/103469969/211141908-b5796ea9-efe6-4d7e-abe8-97276311a8b5.jpg')">
+
+            <!-------------------------2ND LAYER FOR BACKGROUND OPACITY--------------------------------->
+            <div class="h-[600px] w-[500px] bg-opacity-[79%] bg-gray-900 rounded-2xl grid place-items-center">
+
+                <!--------------------------PROFILE PICTURE--------------------------------------------->
+                <img class="w-[150px] h-[150px] rounded-full ring-[5px] ring-blue-500"
+                    src="https://user-images.githubusercontent.com/103469969/211152362-7a72c9f4-501c-4f73-b42d-31d11e59b76c.jpg"
+                    alt="Bordered avatar">
+
+                <!-------------------------------NAME--------------------------------------------------->
+                <h1 class="text-white font-bold text-4xl -mt-[5cm]"> Raphael Mico Barrios </h1>
+
+                <!-----------------------------SUBTITLE------------------------------------------------->
+                <h2 class="text-white text-[15px] -mt-[10.3cm]"> Gamer, Photographer, Videographer, Music Lover </h1>
+
+            </div>
+
+            <!----------------BOXES--------------------------------------------------------------------->
+            <div class="-mt-[6cm] h-[100px] w-[167px] bg-blue-700 bg-opacity-70 grid place-items-center">
+                <h3 class="text-white font-bold text-5xl"> 40 </h3>
+                <h3 class="text-white text-[13px] -mt-[0.5cm]"> Memes shared per day </h3>
+            </div>
+            <div class="-mt-[2.65cm] mx-[4.4cm] h-[100px] w-[167px] bg-blue-600 bg-opacity-50 grid place-items-center">
+                <h3 class="text-white font-bold text-5xl"> 73 </h3>
+                <h3 class="text-white text-[13px] -mt-[0.5cm]"> Instagram posts </h3>
+            </div>
+            <div class="-mt-[2.64cm] mx-[8.8cm] h-[100px] w-[167px] bg-blue-500 bg-opacity-60 grid place-items-center">
+                <h3 class="text-white font-bold text-5xl"> 150+ </h3>
+                <h3 class="text-white text-[13px] -mt-[0.5cm]"> Games Owned </h3>
+
+            </div>
+
+            <!---------------BUTTON--------------------------------------------------------------------->
+            <div class="flex space-x-2 justify-center">
+                <div>
+                    <button type="button"
+                        onclick="window.location.href='https://micobarrios.wixsite.com/theworldofgaming';"
+                        class="mt-[1cm] inline-block px-6 py-2 border-2 border-white text-white font-medium text-xs leading-tight uppercase rounded hover:bg-black hover:bg-opacity-30 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">
+                        Click here for Content
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
